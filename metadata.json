@@ -1,0 +1,6 @@
+{
+  "name": "CitaReal",
+  "description": "Citas reales y conexiones auténticas: perfiles verificados, planes de cita en el mundo real, compatibilidad profunda y sin ghosting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
